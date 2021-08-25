@@ -1756,22 +1756,22 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .form-check-input.is-valid+.form-check-label,
 .was-validated .form-check-input:valid+.form-check-label {
-    color: #28a745
+    color: #1da1f2
 }
 
 .custom-control-input.is-valid~.custom-control-indicator,
 .was-validated .custom-control-input:valid~.custom-control-indicator {
-    background-color: rgba(40, 167, 69, .25)
+    background-color: #1da1f2
 }
 
 .custom-control-input.is-valid~.custom-control-description,
 .was-validated .custom-control-input:valid~.custom-control-description {
-    color: #28a745
+    color: #1da1f2
 }
 
 .custom-file-input.is-valid~.custom-file-control,
 .was-validated .custom-file-input:valid~.custom-file-control {
-    border-color: #28a745
+    border-color: #1da1f2
 }
 
 .custom-file-input.is-valid~.custom-file-control::before,
@@ -1781,7 +1781,7 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .custom-file-input.is-valid:focus,
 .was-validated .custom-file-input:valid:focus {
-    box-shadow: 0 0 0 .2rem rgba(40, 167, 69, .25)
+    box-shadow: 0 0 0 .2rem #1da1f2
 }
 
 .custom-select.is-invalid,
@@ -2020,33 +2020,33 @@ fieldset[disabled] a.btn {
 
 .btn-success {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #1da1f2;
+    border-color: #1da1f2
 }
 
 .btn-success:hover {
     color: #fff;
-    background-color: #218838;
-    border-color: #1e7e34
+    background-color: #1da1f2;
+    border-color: #1da1f2
 }
 
 .btn-success.focus,
 .btn-success:focus {
-    box-shadow: 0 0 0 3px rgba(40, 167, 69, .5)
+    box-shadow: 0 0 0 3px #1da1f2
 }
 
 .btn-success.disabled,
 .btn-success:disabled {
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #1da1f2;
+    border-color: #1da1f2
 }
 
 .btn-success.active,
 .btn-success:active,
 .show>.btn-success.dropdown-toggle {
-    background-color: #218838;
+    background-color: #1da1f2;
     background-image: none;
-    border-color: #1e7e34
+    border-color: #1da1f2
 }
 
 .btn-info {
@@ -2269,26 +2269,26 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-success {
-    color: #28a745;
+    color: #1da1f2;
     background-color: transparent;
     background-image: none;
-    border-color: #28a745
+    border-color: #1da1f2
 }
 
 .btn-outline-success:hover {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #1da1f2;
+    border-color: #1da1f2
 }
 
 .btn-outline-success.focus,
 .btn-outline-success:focus {
-    box-shadow: 0 0 0 3px rgba(40, 167, 69, .5)
+    box-shadow: 0 0 0 3px #1da1f2
 }
 
 .btn-outline-success.disabled,
 .btn-outline-success:disabled {
-    color: #28a745;
+    color: #1da1f2;
     background-color: transparent
 }
 
@@ -2296,8 +2296,8 @@ fieldset[disabled] a.btn {
 .btn-outline-success:active,
 .show>.btn-outline-success.dropdown-toggle {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #1da1f2;
+    border-color: #1da1f2
 }
 
 .btn-outline-info {
@@ -3988,14 +3988,14 @@ tbody.collapse.show {
 
 .badge-success {
     color: #fff;
-    background-color: #28a745
+    background-color: #1da1f2
 }
 
 .badge-success[href]:focus,
 .badge-success[href]:hover {
     color: #fff;
     text-decoration: none;
-    background-color: #1e7e34
+    background-color: #1da1f2
 }
 
 .badge-info {
@@ -4415,8 +4415,8 @@ button.list-group-item-success:hover {
 a.list-group-item-success.active,
 button.list-group-item-success.active {
     color: #fff;
-    background-color: #155724;
-    border-color: #155724
+    background-color: #1da1f2;
+    border-color: #1da1f2
 }
 
 .list-group-item-info {
@@ -5245,12 +5245,12 @@ a.bg-secondary:hover {
 }
 
 .bg-success {
-    background-color: #28a745!important
+    background-color: #1da1f2!important
 }
 
 a.bg-success:focus,
 a.bg-success:hover {
-    background-color: #1e7e34!important
+    background-color:#1da1f2!important
 }
 
 .bg-info {
@@ -5339,7 +5339,7 @@ a.bg-dark:hover {
 }
 
 .border-success {
-    border-color: #28a745!important
+    border-color: #1da1f2!important
 }
 
 .border-info {
@@ -7968,12 +7968,12 @@ a.text-secondary:hover {
 }
 
 .text-success {
-    color: #28a745!important
+    color: #1da1f2!important
 }
 
 a.text-success:focus,
 a.text-success:hover {
-    color: #1e7e34!important
+    color: #1da1f2!important
 }
 
 .text-info {
